@@ -1,6 +1,6 @@
-import AppHeader from "../components/AppHeader"
-import AppCard from "../components/AppCard"
-import AppFooter from "../components/AppFooter"
+import AppHeader from "./components/AppHeader"
+import AppCard from "./components/AppCard"
+import AppFooter from "./components/AppFooter"
 function App() {
 
   return (
